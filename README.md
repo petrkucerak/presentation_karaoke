@@ -6,10 +6,7 @@ https://github.com/eleybourn/presentation_karaoke
 
 ## Demo
 You can see a working demo of this version on:
-https://regl.io/presentation_karaoke
-
-The original version by @eleybourn can be seen in action here:
-http://theagiledirector.com/presentation-karaoke
+https://karaoke.petrkucerak.cz/
 
 ## How to run
 It is designed to be downloaded and run directly on your local computer.
